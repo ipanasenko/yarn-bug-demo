@@ -1,0 +1,12 @@
+{
+  "name": "yarn-bug-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ipanasenko/yarn-bug-demo",
+  "author": "Illia Panasenko <ilyap@wix.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.0.0"
+  },
+  "packageManager": "yarn@4.0.2"
+}
